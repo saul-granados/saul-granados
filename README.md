@@ -40,7 +40,7 @@
 
 <p align="center">
   <!-- Gráfica de Lenguajes Más Utilizados (Calculado por GitHub API) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-granados&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-granados&layout=compact&theme=dark&hide_border=true&langs_count=8&count_private=true" alt="Lenguajes más usados" />
   <br /><br />
   <!-- Tarjeta de Estadísticas Generales -->
   <img src="https://github-readme-stats.vercel.app/api?username=saul-granados&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
@@ -49,4 +49,4 @@
 ---
 
 ### 📈 Actividad Reciente
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=saul-granados&theme=dark&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=saul-granados&theme=dark&hide_border=true&count_private=true)
